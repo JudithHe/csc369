@@ -1,0 +1,3 @@
+/Users/judith/CLionProjects/csc369/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/judith/CLionProjects/csc369/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/judith/CLionProjects/csc369/cmake-build-debug/CMakeFiles/csc369.dir
